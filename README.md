@@ -4,6 +4,7 @@ Curso publico de Python enfocado a la solución de un ensamblador pequeño para 
 
 *Que es Python?
 *Python3, instalación.
+*Jupyter Notebook
 *Definición de variables
 *Operadores aritméticos.
 *Estructuras de control (if, else, elif)
