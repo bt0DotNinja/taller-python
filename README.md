@@ -22,6 +22,6 @@ Hora: 16hrs
 
 Sesiones: 4 en Martes y Jueves
 
-> Te recomiendo como bibliografia:
-> [Learning Python: The Hard Way](https://learnpythonthehardway.org/)
-> [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/python/english3e/)
+Te recomiendo como bibliografia:
+* [Learning Python: The Hard Way](https://learnpythonthehardway.org/)
+* [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/python/english3e/)
